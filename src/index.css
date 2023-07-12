@@ -1,0 +1,24 @@
+body {
+  /* background-color: pink; */
+  background-size: cover;
+  background-image: url("https://img.freepik.com/free-photo/pink-bokeh-textured-plain-product-background_53876-100288.jpg?w=1800&t=st=1689066703~exp=1689067303~hmac=09f0428fff1c4892f299d510cd6969a8996178ea110d2bf25bc4fa00d6420949");
+
+}
+
+.container {
+  margin: auto;
+  max-width: 600px;
+}
+
+.todoBlock {
+  padding: 30px;
+  margin-top: 50px;
+  background-color: rgb(229, 223, 235);
+  border-radius: 10px;
+  box-shadow: -9px 17px 13px rgb(0 0 0 / 16%);
+}
+
+.title {
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
